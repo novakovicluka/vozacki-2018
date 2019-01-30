@@ -21,8 +21,117 @@ nesavesno upravljanje znaci
 ### B može
 * teskim triciklom <15kw, 15kw> kad napuni 21
 * laki tricikl, cetvorocikl
+* motokultivator
 * vozilima sa pridodatim vozilom <750kg 
 * putnickim <3.500kg & teretnim sa `najvecom masom` <3.500kg (nikako nosivosti)
 ## Duznosti
 to be continued
 # Pravila saobracaja
+## Zaustavljanje
+* sva 4 upaljeni & trougao 
+* trougao na 50m od vozila van naselja
+* trougao na 10m u naselju
+
+## Pridodata vozila
+za teret:
+* obican put - 2 prikljucna max
+* autoput/motoput - 1 priljucno max
+za prevoz lica:
+* bilo koji put - 1 prikljucno max
+
+* vucenje neispravnog ne moze ni na autoputu i motoputu (jedino do prvog iskljucenja je dozvoljeno)
+* traktor moze da vuce samo traktor
+* natovareno vozilo moze samo do prvog mesta za pretovar
+* motornim ne sme da se vuce - motocikl, moped i tricikli
+* ne smeju na uze (krutu vezu) ako ne radi 1.upravljanje i 2.radna kocnica(uredjaj za zaustavljanje)  
+* Odstojanje izmedju vozila od `3m do 5m` (preko krute veze moze i manje od 3m ali ne vise od 5m)
+* Ogranicenje je `40kmh`  
+
+ vozilo koje vuce
+* 1. upaljena sva 4 2. trougao napred  
+
+vuceno vozilo
+* 1. upaljena sva 4 2. trougao nazad
+## Svetla
+* danju kratka, nocu duga 
+
+kratka koristimo  nocu:
+* u tunelu, na putu sa ulicnom rasvetom
+* kad ometa sinsko vozilo, za vreme magle
+* kad ometa ispred sebe vozaca, pri mimioilazenju na 200m od vozila
+* kad je zaustavljeno vozilo
+
+poziciona - kad je zaustavljeno nocu i u slaboj vidljivosti (osim ako ima dovoljna ulicna rasveta)
+## pred
+### pesackim
+* prilagodi brzinu da moze  u svakoj situaciji da bezbedno zaustavi vozilo i propusti pesaka
+### prugom(kad nisu spusteni branici)
+* kretanje prilagodimo da mozemo zaustaviti pre stupanja/znaka
+
+## Autoput, Motoput pravila
+* Mogu: motocikli & putnicka, busevi & teretna
+* Ne smeju autoputem: teretna sa brzinom <50kmh
+* dozvoljeno je zaustavljanje samo na odredjenim mestima
+* voze uz 2 desne trake (ako ima 3) / desnu traku(ako ima 2) - 1.skup vozila > 7m ; 2. teretna >3500kg
+* nije dozvoljeno polukruzno i unazad
+
+## pod pratnjom
+* pod pratnjom - daju zvucne i svetlosne znake (crveno i plavo)
+* moze davati samo svetlosne,ako je dovoljna vidljivost i ne krece preko dozvoljene brzine
+* uredjaji za znake - postavljaju se samo na vozila nadleznih organa
+* mora da postuje semafor i policajca
+* ne mora da postuje 1.ogranicenje brzine i 2.preticanje
+* ne mora da postuje 1.propustanje pesaka i 2. presecanje kolone pesaka
+* ti 1.propustas i 2.omogucavas mimoilazenje za  vozila pod pratnjom
+* po potrebi 1.zaustavljas, 2.pomeras i 3.pridrzavas se naredbi
+## vozilo sa prvenstvom prolaza
+* razlika - 1 plavo rotaciono svetlo
+* samo svetlosne ako - gornja 2 + sluzbeni zadatak
+* koriste svetlosne i zvucne znakove - kad je Neophodno
+
+### zuto rotacioni
+* za radove
+* moze i na prinudno zaustavljenim 
+* kad prevazilazi dimenzije 
+
+# Vozila
+* Redovni tehn. pregledi - Godisnji & 6-mesecni
+* Mogu da ucestvuju: Sa - saob.dozvolom, tablicom i nalepnicom
+* Neregistrovana mogu: 1.ako idu da se registruju 2.zbog carine
+* Za odlazak na tehn. pregled neregistrovanog - privremene tablice
+* Privremene tablice - samo se koriste relacijom i u vreme naznacenom
+* Tehnicki ispravno - 1.zadovoljava sve tehn.normative i 2.ima sve ispravne uredjaje
+* Vanredni tehn. pregled - pre pustanja u saobracaj
+* Kontrolni tehn. pregled - po nalogu MUP/ inspektora
+
+6mesecni:
+* javni prevoz, opasnih materija
+* vozila sa 15+ godina
+## Rokovi
+* Nalepnica - `1godina`
+* Privremene tablice - `15dana`
+* Vraca tablice ako ne produzi reg. - `30 dana `
+* Odjavljivanje vozila  - `15 dana`
+* Promenu podatka u saobracajnoj - `15 dana`
+* Gubitak tablica - odmah obavestava
+* Mora redovni tehn. pregledi - pre isteka roka od `6 meseci` od pocetka vazenja reg. nalepnice
+* Najraniji tehn. pregled - `15 dana pre isteka roka od 6 meseci` od pocetka vazenja reg. nalepnice
+* Najraniji tehn. pregled - `30 dana` pre podnosenja zahteva za reg
+## tehnicke osobine
+* `12m` - motorno(masa do 3500kg)
+* `18.75m` - putnicko sa prikolicom
+* prikljucno ne sme biti vece mase od `50 %` od vucnog vozila
+* `50%` je i tolerancija za duzinu vozila
+* visina - `4m`; sirina - `2.55m `
+
+kocenje: 
+* АBS - obezbedjuje opticki indikator
+
+svetla: 
+* prednja ne mogu biti crvena
+* zadnja ne mogu biti bela
+* glavni farovi uvek zuti
+* kad se ukljuce duga sveta - plave je boje indikator na tabli
+* uredjaji za osvetljavanje: 1.svetla za maglu 2.glavni farovi 3.svetla za voznju unazad
+* uredjaji za osvetljavanje: 1.dnevno svetlo 2.pokretni far 3.farovi na mestima za izvodjenje radova
+
