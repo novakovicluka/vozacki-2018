@@ -1,5 +1,5 @@
-# Vozač
-## nesavesno upravljanje
+# 1) Vozač
+## 1.1 nesavesno upravljanje
 * Probna - 9 kaznenih pts
 * Prava - 18 kaznenih pts
 * Međunarodna izdata u SRB - samo vani
@@ -9,11 +9,11 @@ nesavesno upravljanje znaci
 - smrt drugog lica 
 - 1+ u 5god teske telesne povrede
 - 1+ u 3god povrede / imovina
-## Pregled 
+## 1.2 Pregled 
 * Utvrdjivanje sposobnosti - 1) vozaci motornih & javnog prevoza 2) osnovno zanimanje
 * Promena prebivalista - 30 dana
 * Zdravstveni pregled - 3 godine
-## Kategorije
+## 1.3 Kategorije
 ### B1 može
 * teski tricikl <15kw
 * laki/teski cetvorocikl
@@ -24,9 +24,9 @@ nesavesno upravljanje znaci
 * motokultivator
 * vozilima sa pridodatim vozilom <750kg 
 * putnickim <3.500kg & teretnim sa `najvecom masom` <3.500kg (nikako nosivosti)
-## Duznosti
+## 1.4 Duznosti
 to be continued
-# Pravila saobracaja
+# 2) Pravila saobracaja
 ## Zaustavljanje
 * sva 4 upaljeni & trougao 
 * trougao na 50m od vozila van naselja
@@ -94,7 +94,8 @@ poziciona - kad je zaustavljeno nocu i u slaboj vidljivosti (osim ako ima dovolj
 * moze i na prinudno zaustavljenim 
 * kad prevazilazi dimenzije 
 
-# Vozila
+# 3) Vozila
+## 3.1 pregledi 
 * Redovni tehn. pregledi - Godisnji & 6-mesecni
 * Mogu da ucestvuju: Sa - saob.dozvolom, tablicom i nalepnicom
 * Neregistrovana mogu: 1.ako idu da se registruju 2.zbog carine
@@ -106,8 +107,9 @@ poziciona - kad je zaustavljeno nocu i u slaboj vidljivosti (osim ako ima dovolj
 
 6mesecni:
 * javni prevoz, opasnih materija
-* vozila sa 15+ godina
-## Rokovi
+* vozila sa `15+` godina
+
+ Rokovi
 * Nalepnica - `1godina`
 * Privremene tablice - `15dana`
 * Vraca tablice ako ne produzi reg. - `30 dana `
@@ -117,21 +119,80 @@ poziciona - kad je zaustavljeno nocu i u slaboj vidljivosti (osim ako ima dovolj
 * Mora redovni tehn. pregledi - pre isteka roka od `6 meseci` od pocetka vazenja reg. nalepnice
 * Najraniji tehn. pregled - `15 dana pre isteka roka od 6 meseci` od pocetka vazenja reg. nalepnice
 * Najraniji tehn. pregled - `30 dana` pre podnosenja zahteva za reg
-## tehnicke osobine
+## 3.2 tehnicke osobine
 * `12m` - motorno(masa do 3500kg)
 * `18.75m` - putnicko sa prikolicom
 * prikljucno ne sme biti vece mase od `50 %` od vucnog vozila
 * `50%` je i tolerancija za duzinu vozila
 * visina - `4m`; sirina - `2.55m `
+* sporo vozilo - `30kmh/traktor` masine itd.
+* prepravka vetrobrana - zabranjena; bocnih do `30%`; ostala bez ogran.
 
-kocenje: 
+
+## 3.3 kocenje: 
 * АBS - obezbedjuje opticki indikator
 
-svetla: 
+## 3.4 svetla: 
 * prednja ne mogu biti crvena
 * zadnja ne mogu biti bela
-* glavni farovi uvek zuti
-* kad se ukljuce duga sveta - plave je boje indikator na tabli; kad su ukljucna kratna nema indikatora;
+* glavni farovi,pokazivaci prava - uvek zuti
+* dnevna svetla samo bela
+* voznja unazad - bela
+* svetlo registarske tablice  - belo
+* kad se ukljuce duga sveta - plave je boje indikator na tabli; kad su ukljucna kratna i za maglu nema indikatora;
+zadnja svetla za maglu - zute/zelene boje indikator
+* kratka - desno asimetricna
 * uredjaji za osvetljavanje: 1.svetla za maglu 2.glavni farovi 3.svetla za voznju unazad
 * uredjaji za osvetljavanje: 1.dnevno svetlo 2.pokretni far 3.farovi na mestima za izvodjenje radova
+------
+* za maglu max: `35m`
+* kratka - `40m-80m`
+* motokultivator nocu : `150m`
+* duga: `100m`
+* stop svetla ne moraju imati vozila koja se ne krecu brze od 
+`25kmh`
 
+## 3.5 pneumatici
+ 
+* Privremeni pneumatik - istih dimenzija, nosivosti
+* Pneumatici na istoj osovini - jednaki po 1.konstrukcija 2.proizvodjac&tip 3. vrsti(let-zim)
+* Dimenzije na vozilu - deklarise proizvodjac
+* Nije obavezan ako ima sredstvo za privrm. osposobljavanje 
+* Zimske - [1.novembar - 1.mart]
+* M+S - vrsta pneumatika(zimski)
+* TWI - istrosenost
+* Dubina sloja-  `1.6mm` ili prema TWI oznakama
+* Obnovljeni pneumatici - 1.RETREAD i 2.cetvorocifrena oznaka
+* Dubina sloja zimskih - `4mm`
+* Zimska znaci - svi zimski tockovi & lanci
+
+oznaka : 195/65 R 16 89 H
+* 195 - sirina pneumatika
+* 65 - odnos visine i sirine
+* R - konstrukcija
+* 16 - precnik naplatka
+* 89 - nosivost
+* H - index brzine
+------
+## 3.6 prevoz tereta
+* to be continued
+
+# 4) Oznake na kolovozu
+* Linija upozorenja - najavljuje blizinu neisprekidane
+* Semafori - 1. regulisu saobracaj 2. oznacavaju radove
+* Kosnik - otvara traku
+* Semafori za tramvaje - koriste za sva vozila javnog prevoza
+-----
+Razlika uslovno i obicno zeleno sa strelicom:
+* Zeleno sa strelicom - dozvoljen prolaz u tom smeru
+* Uslovno zeleno, dok je na crveno na glavnom - dozvoljen prolaz, uz propustanje svih vozila i pesaka
+---
+* Smerokazi - beli/crveni oznacavaju ivicu kolovoza
+* Znacke - zuti/crni oznacavaju ivicu kolovoza
+* Crnozuta tabla - tabla za oznacavanje vrha ostrva
+--------
+* Policajac - daje 1.rukama 2.uredjajima 3.stop tablicom
+* Moze davati naredbe iz vozila, sa vidnim obelezjem
+* Pistaljka samo van vozila
+* Duzi zvizduk - da obrate paznju
+* Vise kratkih -  neko postupio protivno znaku
