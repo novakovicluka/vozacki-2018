@@ -131,7 +131,7 @@ svetla:
 * prednja ne mogu biti crvena
 * zadnja ne mogu biti bela
 * glavni farovi uvek zuti
-* kad se ukljuce duga sveta - plave je boje indikator na tabli
+* kad se ukljuce duga sveta - plave je boje indikator na tabli; kad su ukljucna kratna nema indikatora;
 * uredjaji za osvetljavanje: 1.svetla za maglu 2.glavni farovi 3.svetla za voznju unazad
 * uredjaji za osvetljavanje: 1.dnevno svetlo 2.pokretni far 3.farovi na mestima za izvodjenje radova
 
