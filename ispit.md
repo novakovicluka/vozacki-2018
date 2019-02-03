@@ -28,10 +28,19 @@ nesavesno upravljanje znaci
 to be continued
 # 2) Pravila saobracaja
 * Obilazis povrsine ako je 1smerna - sa obe strane
-## Zaustavljanje
-* **sva 4 upaljeni & trougao**
-* trougao na `50m` od vozila van naselja
-* trougao na `10m` u naselju
+
+## Sva 4
+* **Zaustavljanje:**
+* +trougao na `50m` od vozila van naselja
+* +trougao na `10m` u naselju
+
+**Sva 4 upaljena**:
+* Zadnji u koloni van naselja
+* Prima/izlaze putnici
+* Kretanje unazad
+
+vozilo koje vuce - 1.upaljena sva 4 2. trougao napred    
+vuceno vozilo - 1. upaljena sva 4 2. trougao nazad
 
 ## Pridodata vozila
 za teret:
@@ -45,20 +54,14 @@ za prevoz lica - 1 prikljucno max
 * natovareno vozilo moze samo do prvog mesta za pretovar
 * motornim ne sme da se vuce - motocikl, moped i tricikli
 * ne smeju na uze (krutu vezu) ako ne radi 1.upravljanje i 2.radna kocnica(uredjaj za zaustavljanje)  
-* Odstojanje izmedju vozila od `3m do 5m` (preko krute veze moze i manje od 3m ali ne vise od 5m)
-* Ogranicenje je `40kmh`  
+* Odstojanje izmedju vozila od `3m do 5m` (preko krute veze moze i manje od 3m ali ne vise od 5m)  
 
- vozilo koje vuce
-* 1. upaljena sva 4 2. trougao napred  
-
-vuceno vozilo
-* 1. upaljena sva 4 2. trougao nazad
 ## Svetla
 * danju kratka, nocu duga 
 
 kratka koristimo  nocu:
 1) u tunelu, na putu sa ulicnom rasvetom
-2) kad ometa sinsko vozilo, za vreme magle
+2) kad ometa sinsko vozilo, **za vreme magle**
 3) kad ometa ispred sebe vozaca, pri mimioilazenju na 200m od vozila
 4) kad je zaustavljeno vozilo
 
@@ -98,6 +101,55 @@ Ti:
 * za radove
 * moze i na prinudno zaustavljenim 
 * kad prevazilazi dimenzije 
+
+## Ogranicenja:
+* Pesacka zona - brzina pesaka
+* Usporenog saobracaja - `10kmh/ Pesaci`
+* Skola `30kmh`
+* Vuce neispravno `40kmh`
+* Naselje  `50kmh`
+* Skola van naselja - `50kmh`
+* Van naselja `80kmh` (teretna `70kmh`)
+* Motoput `100kmh`
+* Autoput `130kmh` -> Teretna mogu `90kmh` (**Ne smeju** se kretati teretna sa maximalnom `50kmh`); Skupa vozila `80kmh`
+
+## Parkiranje/Zaustavljanje: 
+* Na sredini kolovoza - samo ako su ta mesta obelezena signalizacijom za parkiranje
+* Parkiras - 2smerna -> uz desnu, 1smerna -> moze uz obe
+* Invalidska mesta: samo za vozila sa oznakom
+
+
+Ne sme: 
+* Tunel
+* Podvoznjak
+* Mostu
+* **Prevoj, Nepreglednoj krivini** (nikako nizbrdici,uzbridici)
+* **Fizicki odvojen put** (moze taxi da se zaustavi)
+
+-----
+
+Ne sme na 5m od:
+* Pesacki
+* Biciklisticke staze
+* Zeleznicke pruge
+* Tramvajskih sina
+* Raskrsnici i poprecnom kolovozu
+------
+
+Ne sme na 3m od:
+* **Neisprekidane linije** (taxi moze da se zaustavi)
+-----
+Ne sme na 15m od:
+* **Buskog/Taxi stajallista** (taxi moze da se zaustavi)
+----- 
+Na trotoaru:
+* Nije dozvoljeno
+* Mora biti **dozvoljeno znakom** -> da se ostavi `1.6m` pesaku sa strane koja nije uz ivicu kolovoza
+
+
+
+
+
 
 # 3) Vozila
 ## 3.1 pregledi 
